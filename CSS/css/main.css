@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    border: 0;
+    padding: 0;
+}
+header li{
+    display: inline;
+}
+.containers{
+    width: 1366;
+    margin: 0 auto;
+}
+.articles{
+    display: flex;
+}
+.articles article img{
+    height: 360px;
+}
+.articles article{
+    width: 30%;
+}
+.articleseco{
+    display: flex;
+}
+.articleseco article img{
+    height: 360px;
+}
+.articleseco{
+    width: 30%;
+}
